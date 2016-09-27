@@ -4,7 +4,7 @@ update courjette SANG DB with your nainwak account information.
 cli and web mode.
 
 ## Usage
-```man
+```sh
 $ php meteo.php --help
 meteo.php --nw_login=login --nw_passwd=passwd --sang_login=login --sang_passwd=passwd [--action=EVT|DETECT|ENCYCLO|ALL] [--help]
 --nw_login login	   : votre login nainwak.
